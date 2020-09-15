@@ -2,6 +2,7 @@
 def main():
     print("This is in a function")
     print("this is the second line")
+    name = "Marcus"
     age = 5
     dog_years = age * 7
     print(dog_years)
